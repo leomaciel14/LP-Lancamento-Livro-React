@@ -140,7 +140,7 @@ table {
 
 @font-face {
   font-family: 'Older Dictator';
-  src: url('./src/fonts/Older_Dictator.otf') format('opentype');
+  src: url('./Older_Dictator.otf') format('opentype');
 }
 
 body {
