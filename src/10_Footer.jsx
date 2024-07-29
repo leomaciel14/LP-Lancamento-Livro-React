@@ -5,7 +5,7 @@ import { FaGoodreads } from "react-icons/fa";
 export const Footer = () => {
     return (
         <div className="p-12 bg-preto text-branco">
-            <h1 className="footer-title text-5xl font-serif">
+            <h1 className="footer-title text-4xl font-sans font-bold">
                 Relatos de um Vampiro na Guerra
             </h1>
             <div className="flex flex-row items-center justify-center pt-12 w-full gap-8  m-auto">

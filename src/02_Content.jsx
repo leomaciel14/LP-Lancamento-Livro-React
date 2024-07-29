@@ -50,7 +50,7 @@ export const Content = () => {
 
             <div className="flex flex-col-reverse items-center justify-between pt-40 p-6 md:p-12 md:pt-40 lg:p-32 lg:pt-40 lg:flex-row text-left">
                 <div className="lg:w-1/2">
-                    <h1 className="font-serif text-branco sm:text-7xl lg:text-7xl xl:text-7xl 2xl:text-8xl">
+                    <h1 className="font-sans font-bold text-branco text-5xl sm:text-7xl lg:text-7xl xl:text-5xl 2xl:text-7xl">
                         Relatos de um <br /> Vampiro na Guerra
                     </h1>
                     <p className="text-branco mt-4 lg:mt-6 text-sm md:text-base lg:text-xl 2xl:text-2xl">
