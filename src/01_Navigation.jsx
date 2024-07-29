@@ -43,7 +43,6 @@ export const Navigation = () => {
         if (linkOndeComprar) linkOndeComprar.addEventListener("click", handleScrollToSection);
         if (linkFaleComigo) linkFaleComigo.addEventListener("click", handleScrollToSection);
 
-        // Cleanup event listeners on component unmount
         return () => {
             if (linkKits) linkKits.removeEventListener("click", handleScrollToSection);
             if (linkOndeComprar) linkOndeComprar.removeEventListener("click", handleScrollToSection);
@@ -56,7 +55,7 @@ export const Navigation = () => {
             <nav className="flex items-center justify-between">
                 <img
                     className="w-52 sm:w-64"
-                    src="./src/assets/imgs/Logo-2.webp"
+                    src="./Logo-2.webp"
                     alt=""
                 />
 

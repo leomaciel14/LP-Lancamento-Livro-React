@@ -6,7 +6,7 @@ export const Spotify = () => {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-10 mb-0 sm:mb-8">
                 <img
                     className="w-fit"
-                    src="./src/assets/imgs/cruz-03.svg"
+                    src="./cruz-03.svg"
                     alt="Cruz"
                 />
                 <h1 className="text-4xl font-bold sm:text-5xl">
@@ -14,7 +14,7 @@ export const Spotify = () => {
                 </h1>
                 <img
                     className="md:w-fit w-0"
-                    src="./src/assets/imgs/cruz-03.svg"
+                    src="./cruz-03.svg"
                     alt="Cruz"
                 />
             </div>

@@ -6,7 +6,7 @@ export const BannerDireto = () => {
             <div>
                 <img
                     className="max-h-[700px] p-0 xl:pr-10"
-                    src=".\src\assets\imgs\red_cross2.webp"
+                    src=".\red_cross2.webp"
                     alt=""
                 />
             </div>

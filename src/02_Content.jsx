@@ -24,7 +24,7 @@ export const Content = () => {
                 <div className="absolute -z-10 hidden xl:brightness-80 md:brightness-50 2xl:block">
                     <img
                         className="min-h-[800px] w-full object-cover"
-                        src="./src/assets/imgs/Banner-Background_Wide.webp"
+                        src="./Banner-Background_Wide.webp"
                         alt="Banner Background"
                     />
                 </div>
@@ -33,7 +33,7 @@ export const Content = () => {
                 <div className="absolute -z-10 hidden 2xl:hidden md:brightness-50 md:block">
                     <img
                         className="md:min-h-[1080px] xl:min-h-[800px] max-h-[800px] object-cover"
-                        src="./src/assets/imgs/Banner-Background.webp"
+                        src="./Banner-Background.webp"
                         alt="Banner Background"
                     />
                 </div>
@@ -42,7 +42,7 @@ export const Content = () => {
                 <div className="absolute -z-10 brightness-50 md:hidden">
                     <img
                         className="w-full h-[1000px] object-cover"
-                        src="./src/assets/imgs/Banner-Background_Mobile.webp"
+                        src="./Banner-Background_Mobile.webp"
                         alt="Banner Background Mobile"
                     />
                 </div>
@@ -78,7 +78,7 @@ export const Content = () => {
                 </div>
                 <img
                     className="w-4/5 sm:w-3/5 max-w-[550px] h-auto mb-4 lg:ml-12 2xl:w-full"
-                    src="./src/assets/imgs/Book-Kit.webp"
+                    src="./Book-Kit.webp"
                     alt="Book Kit"
                 />
             </div>
@@ -105,7 +105,7 @@ export const Content = () => {
                 </a>
                 <iframe
                     className="w-full h-full"
-                    src="/Primeiros-Capítulos.pdf"
+                    src="./Primeiros-Capítulos.pdf"
                     title="Primeiros Capítulos"
                 />
             </Modal>

@@ -6,7 +6,7 @@ export const CardsProdutos = ({ produto }) => {
             <div className="mb-8">
                 <img
                     className="w-fit"
-                    src="./src/assets/imgs/cruz-02.svg"
+                    src="./cruz-02.svg"
                     alt="Cruz"
                 />
             </div>

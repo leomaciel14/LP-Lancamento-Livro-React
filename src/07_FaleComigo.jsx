@@ -38,7 +38,7 @@ export const FaleComigo = () => {
             <div className="w-5/6 xl:w-3/6 p-2 text-center bg-creme1/50 dark:bg-verde2 rounded-b-[32rem] rounded-t-full">
                 <img
                     className="m-auto p-10"
-                    src=".\src\assets\imgs\foto-autora.webp"
+                    src=".\foto-autora.webp"
                     alt=""
                 />
                 <h2 className="font-bold text-2xl">Ana Clara Galli</h2>

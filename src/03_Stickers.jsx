@@ -11,7 +11,7 @@ export const Sticker = () => {
                 <li className="flex flex-col items-center gap-4 mb-12">
                     <img
                         className="w-60"
-                        src="./src/assets/imgs/adesivo-01.webp"
+                        src="./adesivo-01.webp"
                         alt=""
                     />
                     <p className="text-2xl">
@@ -22,7 +22,7 @@ export const Sticker = () => {
                 <li className="flex flex-col items-center gap-4 mb-12">
                     <img
                         className="w-60"
-                        src="./src/assets/imgs/adesivo-02.webp"
+                        src="./adesivo-02.webp"
                         alt=""
                     />
                     <p className="text-2xl">
@@ -33,7 +33,7 @@ export const Sticker = () => {
                 <li className="flex flex-col items-center gap-4 mb-12">
                     <img
                         className="w-60"
-                        src="./src/assets/imgs/adesivo-03.webp"
+                        src="./adesivo-03.webp"
                         alt=""
                     />
                     <p className="text-2xl">
@@ -44,7 +44,7 @@ export const Sticker = () => {
                 <li className="flex flex-col items-center gap-4 mb-12">
                     <img
                         className="w-60"
-                        src="./src/assets/imgs/adesivo-04.webp"
+                        src="./adesivo-04.webp"
                         alt=""
                     />
                     <p className="text-2xl">

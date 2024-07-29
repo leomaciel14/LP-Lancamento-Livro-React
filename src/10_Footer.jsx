@@ -30,7 +30,7 @@ export const Footer = () => {
                 >
                     <img
                         className="w-10 h-10"
-                        src=".\src\assets\imgs\icon-skoob.webp"
+                        src=".\icon-skoob.webp"
                         alt="Skoob"
                     />
                 </a>
