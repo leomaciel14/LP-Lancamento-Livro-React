@@ -34,7 +34,7 @@ Bem-vindo ao projeto de lançamento do livro *Relatos de um Vampiro na Guerra* p
 
 Você pode testar o site acessando o link abaixo:
 
-[![Testar Projeto](https://img.shields.io/badge/Testar%20Projeto-Visitar%20Site-blue)](https://lp-lancamento-livro.vercel.app/)
+[![Testar Projeto](https://img.shields.io/badge/Testar%20Projeto-Visitar%20Site-blue)](https://lp-lancamento-livro-react.vercel.app/)
 
 ## Tecnologias Utilizadas
 
