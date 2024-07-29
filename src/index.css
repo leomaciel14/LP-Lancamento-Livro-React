@@ -65,3 +65,8 @@ button:focus-visible {
 :root.dark h1 {
   color: #ffffff;
 }
+
+@font-face {
+  font-family: 'Older Dictator';
+  src: url('./Older_Dictator.otf') format('opentype');
+}

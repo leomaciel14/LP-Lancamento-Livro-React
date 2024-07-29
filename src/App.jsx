@@ -9,7 +9,6 @@ import { FaleComigo } from "./07_FaleComigo";
 import { Spotify } from "./08_Spotify";
 import { Forms } from "./09_Forms";
 import { Footer } from "./10_Footer";
-
 import Reviews from "./Reviews";
 
 function App() {
